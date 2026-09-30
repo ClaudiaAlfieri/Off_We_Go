@@ -86,237 +86,353 @@
       "id": "1",
       "nome": "Praia da Rocha",
       "descricao": "Uma das praias mais famosas do Algarve, conhecida pelas suas falésias e areias douradas.",
-      "categoriaId": "3"
+      "categoria": "Praias",
+      "localizacao": "Portimão, Algarve",
+      "urlFoto": "https://picsum.photos/seed/praia-da-rocha/800/600",
+      "avaliacao": 5
     },
     {
       "id": "2",
       "nome": "Castelo de São Jorge",
       "descricao": "Um castelo histórico em Lisboa com vistas panorâmicas sobre a cidade.",
-      "categoriaId": "6"
+      "categoria": "Monumentos e Património",
+      "localizacao": "Lisboa",
+      "urlFoto": "https://picsum.photos/seed/castelo-de-sao-jorge/800/600",
+      "avaliacao": 5
     },
     {
       "id": "3",
       "nome": "Museu Nacional de Arte Antiga",
       "descricao": "O principal museu de arte antiga em Portugal, localizado em Lisboa.",
-      "categoriaId": "5"
+      "categoria": "Museus",
+      "localizacao": "Lisboa",
+      "urlFoto": "https://picsum.photos/seed/museu-nacional-de-arte-antiga/800/600",
+      "avaliacao": 4
     },
     {
       "id": "4",
       "nome": "Cervejaria Ramiro",
       "descricao": "Restaurante lisboeta muito procurado pelo marisco fresco e pelo prego no final da refeição.",
-      "categoriaId": "1"
+      "categoria": "Restaurantes",
+      "localizacao": "Lisboa",
+      "urlFoto": "https://picsum.photos/seed/cervejaria-ramiro/800/600",
+      "avaliacao": 5
     },
     {
       "id": "5",
       "nome": "Casa Guedes",
       "descricao": "Tasca do Porto famosa pelas sandes de pernil de porco assado com queijo da serra.",
-      "categoriaId": "1"
+      "categoria": "Restaurantes",
+      "localizacao": "Porto",
+      "urlFoto": "https://picsum.photos/seed/casa-guedes/800/600",
+      "avaliacao": 4
     },
     {
       "id": "6",
       "nome": "Porto",
       "descricao": "Cidade à beira do Douro, com a Ribeira, pontes icónicas e caves de vinho do Porto.",
-      "categoriaId": "2"
+      "categoria": "Cidades",
+      "localizacao": "Porto",
+      "urlFoto": "https://picsum.photos/seed/porto/800/600",
+      "avaliacao": 5
     },
     {
       "id": "7",
       "nome": "Coimbra",
       "descricao": "Cidade universitária com uma das universidades mais antigas da Europa e a Biblioteca Joanina.",
-      "categoriaId": "2"
+      "categoria": "Cidades",
+      "localizacao": "Coimbra",
+      "urlFoto": "https://picsum.photos/seed/coimbra/800/600",
+      "avaliacao": 5
     },
     {
       "id": "8",
       "nome": "Évora",
       "descricao": "Cidade alentejana Património Mundial, com o Templo Romano e a Capela dos Ossos.",
-      "categoriaId": "2"
+      "categoria": "Cidades",
+      "localizacao": "Évora, Alentejo",
+      "urlFoto": "https://picsum.photos/seed/evora/800/600",
+      "avaliacao": 4
     },
     {
       "id": "9",
       "nome": "Praia da Marinha",
       "descricao": "Praia em Lagoa, no Algarve, com águas cristalinas e formações rochosas impressionantes.",
-      "categoriaId": "3"
+      "categoria": "Praias",
+      "localizacao": "Lagoa, Algarve",
+      "urlFoto": "https://picsum.photos/seed/praia-da-marinha/800/600",
+      "avaliacao": 5
     },
     {
       "id": "10",
       "nome": "Praia do Guincho",
       "descricao": "Praia selvagem perto de Cascais, com dunas e vento forte, ideal para kitesurf e windsurf.",
-      "categoriaId": "3"
+      "categoria": "Praias",
+      "localizacao": "Cascais",
+      "urlFoto": "https://picsum.photos/seed/praia-do-guincho/800/600",
+      "avaliacao": 4
     },
     {
       "id": "11",
       "nome": "Parque Nacional da Peneda-Gerês",
       "descricao": "O único parque nacional de Portugal, com cascatas, lagoas e trilhos por entre montanhas.",
-      "categoriaId": "4"
+      "categoria": "Natureza e Trilhos",
+      "localizacao": "Gerês, Minho",
+      "urlFoto": "https://picsum.photos/seed/parque-nacional-da-peneda-geres/800/600",
+      "avaliacao": 5
     },
     {
       "id": "12",
       "nome": "Passadiços do Paiva",
       "descricao": "Percurso de cerca de 8 km em passadiços de madeira ao longo do rio Paiva, em Arouca.",
-      "categoriaId": "4"
+      "categoria": "Natureza e Trilhos",
+      "localizacao": "Arouca",
+      "urlFoto": "https://picsum.photos/seed/passadicos-do-paiva/800/600",
+      "avaliacao": 5
     },
     {
       "id": "13",
       "nome": "Serra da Estrela",
       "descricao": "A serra mais alta de Portugal continental, com paisagens glaciares e neve no inverno.",
-      "categoriaId": "4"
+      "categoria": "Natureza e Trilhos",
+      "localizacao": "Serra da Estrela",
+      "urlFoto": "https://picsum.photos/seed/serra-da-estrela/800/600",
+      "avaliacao": 4
     },
     {
       "id": "14",
       "nome": "Museu Calouste Gulbenkian",
       "descricao": "Museu em Lisboa com uma coleção de arte que vai da Antiguidade ao início do século XX, rodeado por jardins.",
-      "categoriaId": "5"
+      "categoria": "Museus",
+      "localizacao": "Lisboa",
+      "urlFoto": "https://picsum.photos/seed/museu-calouste-gulbenkian/800/600",
+      "avaliacao": 5
     },
     {
       "id": "15",
       "nome": "Fundação de Serralves",
       "descricao": "Museu de arte contemporânea no Porto, com um grande parque e a Casa de Serralves em estilo Art Déco.",
-      "categoriaId": "5"
+      "categoria": "Museus",
+      "localizacao": "Porto",
+      "urlFoto": "https://picsum.photos/seed/fundacao-de-serralves/800/600",
+      "avaliacao": 4
     },
     {
       "id": "16",
       "nome": "Mosteiro dos Jerónimos",
       "descricao": "Obra-prima do estilo manuelino em Belém, classificada como Património Mundial.",
-      "categoriaId": "6"
+      "categoria": "Monumentos e Património",
+      "localizacao": "Lisboa",
+      "urlFoto": "https://picsum.photos/seed/mosteiro-dos-jeronimos/800/600",
+      "avaliacao": 5
     },
     {
       "id": "17",
       "nome": "Palácio da Pena",
       "descricao": "Palácio romântico e colorido no alto da serra de Sintra, rodeado por um vasto parque.",
-      "categoriaId": "6"
+      "categoria": "Monumentos e Património",
+      "localizacao": "Sintra",
+      "urlFoto": "https://picsum.photos/seed/palacio-da-pena/800/600",
+      "avaliacao": 5
     },
     {
       "id": "18",
       "nome": "Miradouro da Senhora do Monte",
       "descricao": "Um dos pontos mais altos de Lisboa, com vista sobre o castelo e o rio Tejo.",
-      "categoriaId": "7"
+      "categoria": "Miradouros",
+      "localizacao": "Lisboa",
+      "urlFoto": "https://picsum.photos/seed/miradouro-da-senhora-do-monte/800/600",
+      "avaliacao": 5
     },
     {
       "id": "19",
       "nome": "Cabo da Roca",
       "descricao": "O ponto mais ocidental da Europa continental, com falésias sobre o Atlântico.",
-      "categoriaId": "7"
+      "categoria": "Miradouros",
+      "localizacao": "Sintra",
+      "urlFoto": "https://picsum.photos/seed/cabo-da-roca/800/600",
+      "avaliacao": 4
     },
     {
       "id": "20",
       "nome": "Miradouro da Vitória",
       "descricao": "Miradouro no Porto com vista sobre os telhados da Ribeira e as caves de Gaia.",
-      "categoriaId": "7"
+      "categoria": "Miradouros",
+      "localizacao": "Porto",
+      "urlFoto": "https://picsum.photos/seed/miradouro-da-vitoria/800/600",
+      "avaliacao": 4
     },
     {
       "id": "21",
       "nome": "Pousada Castelo de Óbidos",
       "descricao": "Alojamento dentro das muralhas do castelo medieval da vila de Óbidos.",
-      "categoriaId": "8"
+      "categoria": "Alojamento",
+      "localizacao": "Óbidos",
+      "urlFoto": "https://picsum.photos/seed/pousada-castelo-de-obidos/800/600",
+      "avaliacao": 4
     },
     {
       "id": "22",
       "nome": "The Yeatman",
       "descricao": "Hotel vínico em Vila Nova de Gaia com vista sobre o Porto e o rio Douro.",
-      "categoriaId": "8"
+      "categoria": "Alojamento",
+      "localizacao": "Vila Nova de Gaia",
+      "urlFoto": "https://picsum.photos/seed/the-yeatman/800/600",
+      "avaliacao": 5
     },
     {
       "id": "23",
       "nome": "Pastéis de Belém",
       "descricao": "A casa original dos famosos pastéis de nata, a funcionar desde 1837 em Lisboa.",
-      "categoriaId": "9"
+      "categoria": "Cafés e Pastelarias",
+      "localizacao": "Lisboa",
+      "urlFoto": "https://picsum.photos/seed/pasteis-de-belem/800/600",
+      "avaliacao": 5
     },
     {
       "id": "24",
       "nome": "Café Majestic",
       "descricao": "Café histórico na Rua de Santa Catarina, no Porto, com decoração Arte Nova.",
-      "categoriaId": "9"
+      "categoria": "Cafés e Pastelarias",
+      "localizacao": "Porto",
+      "urlFoto": "https://picsum.photos/seed/cafe-majestic/800/600",
+      "avaliacao": 4
     },
     {
       "id": "25",
       "nome": "Bairro Alto",
       "descricao": "Bairro de Lisboa cheio de bares e ruas estreitas que ganham vida à noite.",
-      "categoriaId": "10"
+      "categoria": "Vida Noturna",
+      "localizacao": "Lisboa",
+      "urlFoto": "https://picsum.photos/seed/bairro-alto/800/600",
+      "avaliacao": 4
     },
     {
       "id": "26",
       "nome": "Rua Galeria de Paris",
       "descricao": "Rua no centro do Porto conhecida pela concentração de bares e ambiente animado.",
-      "categoriaId": "10"
+      "categoria": "Vida Noturna",
+      "localizacao": "Porto",
+      "urlFoto": "https://picsum.photos/seed/rua-galeria-de-paris/800/600",
+      "avaliacao": 4
     },
     {
       "id": "27",
       "nome": "Mercado do Bolhão",
       "descricao": "Mercado tradicional do Porto com bancas de frescos, flores e produtos regionais.",
-      "categoriaId": "11"
+      "categoria": "Compras",
+      "localizacao": "Porto",
+      "urlFoto": "https://picsum.photos/seed/mercado-do-bolhao/800/600",
+      "avaliacao": 4
     },
     {
       "id": "28",
       "nome": "LX Factory",
       "descricao": "Antigo complexo industrial em Alcântara transformado em espaço de lojas, restaurantes e arte.",
-      "categoriaId": "11"
+      "categoria": "Compras",
+      "localizacao": "Lisboa",
+      "urlFoto": "https://picsum.photos/seed/lx-factory/800/600",
+      "avaliacao": 4
     },
     {
       "id": "29",
       "nome": "Feira da Ladra",
       "descricao": "Mercado de rua em Lisboa com antiguidades, artigos em segunda mão e curiosidades.",
-      "categoriaId": "11"
+      "categoria": "Compras",
+      "localizacao": "Lisboa",
+      "urlFoto": "https://picsum.photos/seed/feira-da-ladra/800/600",
+      "avaliacao": 3
     },
     {
       "id": "30",
       "nome": "Festas de Santo António",
       "descricao": "Festas populares de Lisboa em junho, com arraiais, sardinhas assadas e marchas.",
-      "categoriaId": "12"
+      "categoria": "Eventos e Festivais",
+      "localizacao": "Lisboa",
+      "urlFoto": "https://picsum.photos/seed/festas-de-santo-antonio/800/600",
+      "avaliacao": 5
     },
     {
       "id": "31",
       "nome": "São João do Porto",
       "descricao": "A grande festa do Porto na noite de 23 para 24 de junho, com martelinhos e fogo de artifício.",
-      "categoriaId": "12"
+      "categoria": "Eventos e Festivais",
+      "localizacao": "Porto",
+      "urlFoto": "https://picsum.photos/seed/sao-joao-do-porto/800/600",
+      "avaliacao": 5
     },
     {
       "id": "32",
       "nome": "Nazaré",
       "descricao": "Vila costeira mundialmente famosa pelas ondas gigantes da Praia do Norte.",
-      "categoriaId": "13"
+      "categoria": "Aventura e Desportos",
+      "localizacao": "Nazaré",
+      "urlFoto": "https://picsum.photos/seed/nazare/800/600",
+      "avaliacao": 5
     },
     {
       "id": "33",
       "nome": "Ponte 516 Arouca",
       "descricao": "Uma das maiores pontes suspensas pedonais do mundo, sobre o rio Paiva.",
-      "categoriaId": "13"
+      "categoria": "Aventura e Desportos",
+      "localizacao": "Arouca",
+      "urlFoto": "https://picsum.photos/seed/ponte-516-arouca/800/600",
+      "avaliacao": 4
     },
     {
       "id": "34",
       "nome": "Monsanto",
       "descricao": "Aldeia histórica na Beira Baixa com casas construídas entre enormes rochedos de granito.",
-      "categoriaId": "14"
+      "categoria": "Aldeias",
+      "localizacao": "Idanha-a-Nova",
+      "urlFoto": "https://picsum.photos/seed/monsanto/800/600",
+      "avaliacao": 5
     },
     {
       "id": "35",
       "nome": "Piódão",
       "descricao": "Aldeia de xisto na Serra do Açor, com casas de pedra escura em socalcos.",
-      "categoriaId": "14"
+      "categoria": "Aldeias",
+      "localizacao": "Arganil",
+      "urlFoto": "https://picsum.photos/seed/piodao/800/600",
+      "avaliacao": 5
     },
     {
       "id": "36",
       "nome": "Oceanário de Lisboa",
       "descricao": "Um dos maiores aquários da Europa, no Parque das Nações, ótimo para visitar com crianças.",
-      "categoriaId": "15"
+      "categoria": "Passeios em Família",
+      "localizacao": "Lisboa",
+      "urlFoto": "https://picsum.photos/seed/oceanario-de-lisboa/800/600",
+      "avaliacao": 5
     },
     {
       "id": "37",
       "nome": "Portugal dos Pequenitos",
       "descricao": "Parque em Coimbra com miniaturas de monumentos e casas típicas portuguesas.",
-      "categoriaId": "15"
+      "categoria": "Passeios em Família",
+      "localizacao": "Coimbra",
+      "urlFoto": "https://picsum.photos/seed/portugal-dos-pequenitos/800/600",
+      "avaliacao": 4
     },
     {
       "id": "38",
       "nome": "Elétrico 28",
       "descricao": "Linha de elétrico histórica que atravessa bairros típicos de Lisboa como a Graça e Alfama.",
-      "categoriaId": "16"
+      "categoria": "Transportes",
+      "localizacao": "Lisboa",
+      "urlFoto": "https://picsum.photos/seed/eletrico-28/800/600",
+      "avaliacao": 4
     },
     {
       "id": "39",
       "nome": "Linha do Douro",
       "descricao": "Viagem de comboio ao longo do rio Douro, entre o Porto e o Pocinho, com paisagens vinhateiras.",
-      "categoriaId": "16"
+      "categoria": "Transportes",
+      "localizacao": "Porto / Vale do Douro",
+      "urlFoto": "https://picsum.photos/seed/linha-do-douro/800/600",
+      "avaliacao": 5
     }
-
   ],
   "$schema": "./node_modules/json-server/schema.json"
 }
