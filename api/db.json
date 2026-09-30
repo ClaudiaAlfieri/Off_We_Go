@@ -9,6 +9,11 @@
       "id": "a0-c5FxpT2A",
       "nome": "Cidades",
       "descricao": "Locais urbanos com infraestrutura, cultura e serviços."
+    },
+    {
+      "nome": "Passeio",
+      "descricao": "123",
+      "id": "Q4fh2sd6eEo"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
