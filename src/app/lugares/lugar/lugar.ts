@@ -36,6 +36,8 @@ export class Lugar implements OnInit {
   }
 
   salvar(){
+    this.camposForm.markAllAsTouched();
+
     this.lugarService.salvar(this.camposForm.value).subscribe({
       next: (lugar) => {
         console.log('Lugar salvo com sucesso:', lugar);
@@ -50,5 +52,5 @@ export class Lugar implements OnInit {
     const campo = this.camposForm.get(nomeCampo);
     return campo?.invalid && campo?.touched && campo?.errors?.['required']
   }
-  
+
 }
