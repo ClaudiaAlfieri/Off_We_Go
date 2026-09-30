@@ -1,0 +1,15 @@
+{
+  "categorias": [
+    {
+      "id": "1",
+      "nome": "Restaurantes",
+      "descricao": "Estabelecimentos que oferecem refeições e bebidas."
+    },
+    {
+      "id": "a0-c5FxpT2A",
+      "nome": "Cidades",
+      "descricao": "Locais urbanos com infraestrutura, cultura e serviços."
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
