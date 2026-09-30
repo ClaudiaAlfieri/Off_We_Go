@@ -1,4 +1,4 @@
-import { Component, OnInit} from '@angular/core';
+import { Component, OnInit, ChangeDetectorRef } from '@angular/core';
 import { Categoria } from '../../categorias/categoria';
 import { Lugar } from '../../lugares/lugar';
 import { LugarService } from '../../lugares/lugar.service';
@@ -17,18 +17,24 @@ export class Galeria implements OnInit {
 
   constructor(
     private lugarService: LugarService,
-    private categoriaService: CategoriaService
+    private categoriaService: CategoriaService,
+    private cdr: ChangeDetectorRef
   ) {}
 
   ngOnInit(): void {
     this.categoriaService.obterTodas().subscribe(categorias => {
       this.categoriasFiltro = categorias;
+      this.cdr.detectChanges();
     });
 
     this.lugarService.obterTodas().subscribe(lugares => {
       this.lugares = lugares;
+      this.cdr.detectChanges();
     });
+  }
 
+  getTotalEstrelas(lugar: Lugar) : string{
+    return '&#9733;'.repeat(lugar.avaliacao || 0) + '&#9734;'.repeat(5 - (lugar.avaliacao || 0));
   }
 
 }

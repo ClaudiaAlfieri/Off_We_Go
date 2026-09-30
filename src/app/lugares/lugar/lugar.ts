@@ -21,7 +21,7 @@ export class Lugar implements OnInit {
     this.camposForm = new FormGroup({
       nome: new FormControl('', [Validators.required, Validators.minLength(3)]),
       categoria: new FormControl('', [Validators.required]),
-      localização: new FormControl('', [Validators.required]),
+      localizacao: new FormControl('', [Validators.required]),
       urlFoto: new FormControl('', [Validators.required]),
       avaliacao: new FormControl('', [Validators.required, Validators.min(0), Validators.max(5)]),
     });
